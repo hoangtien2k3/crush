@@ -1,11 +1,11 @@
 const CONFIG = {
     titleWeb: "Tien Đẹp Zai",
     introTitle: 'Tiến Rắc Muối',
-    introDesc: `Ba ngàn con sông chỉ uống 1 gáo nước.` `Thiên hạ vạn người chỉ muốn nắm tay em.`,
+    introDesc: `Ba ngàn con sông chỉ uống 1 gáo nước. Thiên hạ vạn người chỉ muốn nắm tay em.`,
     btnIntro: '^^HiHi^^',
     title: 'Trúc xinh trúc mọc đầu đình. 🥰',
     desc: 'Em xinh em có cởi truồng vẫn xinh.',
-    btnYes: 'THích cơ 🥰',
+    btnYes: 'Thích cơ 🥰',
     btnNo: 'Chê nha :)',
     question: 'Gọi em là cái kem. Nóng thế này anh chỉ muốn mờ lemmm. <3',
     btnReply: 'Gửi tới anh <3',
